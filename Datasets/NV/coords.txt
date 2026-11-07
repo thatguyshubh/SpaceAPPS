@@ -1,0 +1,7 @@
+West (Min Longitude): -115.507753°
+
+East (Max Longitude): -115.126101°
+
+South (Min Latitude): 42.358493°
+
+North (Max Latitude): 42.561016°
